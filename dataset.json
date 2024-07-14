@@ -1,0 +1,12 @@
+[
+    {"alumno":"Moises","nota":9.09,"ranking":10},
+    {"alumno":"Juan","nota":4,"ranking":150},
+    {"alumno":"Carlos","nota":5,"ranking":100},
+    {"alumno":"Lucia","nota":9,"ranking":14},
+    {"alumno":"Isabel","nota":8.5,"ranking":25},
+    {"alumno":"Ricardo","nota":3,"ranking":180},
+    {"alumno":"Pedro","nota":7,"ranking":75},
+    {"alumno":"Aday","nota":6,"ranking":100},
+    {"alumno":"Lea","nota":6.5,"ranking":125},
+    {"alumno":"Chiari","nota":7.8,"ranking":63}
+]
